@@ -1,0 +1,17 @@
+.banner {
+  width: 100vw;
+}
+
+.content {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: grey;
+  padding: 25px;
+  border-radius: 15px;
+  opacity: 0.5;
+}
+
+.banner-container {
+  position: relative;
+}
